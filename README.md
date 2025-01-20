@@ -4,16 +4,16 @@ Accurate defect classification in wafer manufacturing is essential for ensuring 
 
 ## Dataset Description
 - Wafer defect type
-- ![image](https://github.com/user-attachments/assets/99d937de-755d-4754-9eee-782d4ce4fa0a)
+  ![image](https://github.com/user-attachments/assets/99d937de-755d-4754-9eee-782d4ce4fa0a)
 - Sample sizes among categories
--- Center : 3462
--- Donut : 409
--- Edge-Loc : 2417
--- Edge-Ring : 8554
--- Loc : 1620
--- Near-full : 54
--- Random : 609
--- Scratch : 500
+  - Center : 3462
+  - Donut : 409
+  - Edge-Loc : 2417
+  - Edge-Ring : 8554
+  - Loc : 1620
+  - Near-full : 54
+  - Random : 609
+  - Scratch : 500
 
 ## Methods
 ### Undersampling
