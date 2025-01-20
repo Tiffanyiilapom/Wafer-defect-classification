@@ -6,6 +6,7 @@ Accurate defect classification in wafer manufacturing is essential for ensuring 
 - Wafer defect type
   ![image](https://github.com/user-attachments/assets/99d937de-755d-4754-9eee-782d4ce4fa0a)
 - Sample sizes among categories
+  
   - Center : 3462
   - Donut : 409
   - Edge-Loc : 2417
@@ -26,5 +27,5 @@ Since the images mainly contain green dots for regular points and yellow dots fo
 The pixel values of the images were standardized and scaled to a range with a mean of 0 and a standard deviation of 1, which can accelerate model convergence and reduce instability during training caused by large feature value ranges.
 ### VGG
 VGG (Visual Geometry Group) is a convolutional neural network architecture known for its simplicity and depth. This architecture performs exceptionally well in image classification tasks and has been widely used in various computer vision applications.
-### Focalloss
+### Focal Loss
 Focal Loss is a loss function designed to address class imbalance and is handy for object detection and imbalanced datasets. It adds a modulating factor to the standard cross-entropy loss, reducing the loss contribution from easily classified examples and focusing more on hard-to-classify samples.
