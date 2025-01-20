@@ -1,5 +1,4 @@
 # Wafer-defect-classification
-Image recognition : classify the wafer defect type  
 Accurate defect classification in wafer manufacturing is essential for ensuring product quality, production efficiency, and reliability, as defects can adversely impact the functionality of semiconductor chips. Advanced technologies, such as high-resolution imaging and machine learning, are employed to identify and classify defects rapidly, enabling timely actions to improve production outcomes.
 
 ## Dataset Description
