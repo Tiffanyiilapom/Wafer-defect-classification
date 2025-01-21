@@ -28,4 +28,4 @@ The pixel values of the images were standardized and scaled to a range with a me
 ### VGG
 VGG (Visual Geometry Group) is a convolutional neural network architecture known for its simplicity and depth. This architecture performs exceptionally well in image classification tasks and has been widely used in various computer vision applications.
 ### Focal Loss
-Focal Loss is a loss function designed to address class imbalance and is handy for object detection and imbalanced datasets. It adds a modulating factor to the standard cross-entropy loss, reducing the loss contribution from easily classified examples and focusing more on hard-to-classify samples.
+Focal Loss is a loss function designed to address class imbalance. It adds a modulating factor to the standard cross-entropy loss, reducing the loss contribution from easily classified examples and focusing more on hard-to-classify samples.
